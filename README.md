@@ -18,7 +18,19 @@ Identify patients being readmitted to a healthcare facility within 30 days after
     This file contains:
 
       - Data Import
+        
       - Connection to PostreSQL Database
+        
+3. **Open Load_Silver.sql**
+
+   This file contains:
+
+      - Data cleaning (from bronze tables to silver tables)
+  
+      - Data transformation (from bronze tables to silver tables)
+  
+      - Data Import (from bronze tables to silver tables)
+
    
 4. **Open Healthcare_Patient_Analysis.ipynb notebook**
 
