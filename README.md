@@ -13,7 +13,14 @@ Identify patients being readmitted to a healthcare facility within 30 days after
    git clone 
    cd 
    ```
-2. **Open Healthcare_Patient_Analysis.ipynb notebook**
+2. **Open Healthcare_Load_Bronze_Tables.ipynb notebook**
+
+    This file contains:
+
+      - Data Import
+      - Connection to PostreSQL Database
+   
+4. **Open Healthcare_Patient_Analysis.ipynb notebook**
 
     This file contains:
 
