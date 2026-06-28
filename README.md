@@ -40,8 +40,12 @@ Identify patients being readmitted to a healthcare facility within 30 days after
       - Data transformation (from silver tables to final tables)
   
       - Data Import (from silver tables to final tables)
+
+5. **Open Healthcare_Patient_Analysis_Queries.sql** 
+
+      - Answer Business Questions using SQL Queries
    
-5. **Open Healthcare_Patient_Analysis.ipynb notebook**
+6. **Open Healthcare_Patient_Analysis.ipynb notebook**
 
     This file contains:
 
