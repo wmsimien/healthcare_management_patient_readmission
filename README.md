@@ -53,14 +53,11 @@ Identify patients being readmitted to a healthcare facility within 30 days after
 
       - Data exploration
 
-      - Data cleaning
-
       - Connection to PostreSQL Database
   
+7. **Connect the PostgreSQL Database to Power BI**
 
-      - Create interactive dashboard in Power BI
-
-
+       - Open healthcare_patient_readmission_dashboard.pbix
 
 
 ## 📧 Contact
