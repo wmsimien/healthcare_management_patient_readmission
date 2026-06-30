@@ -10,8 +10,8 @@ Identify patients being readmitted to a healthcare facility within 30 days after
 
 1. **Clone the repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/wmsimien/healthcare_management_patient_readmission.git
+   cd healthcare_management_patient_readmission
    ```
 2. **Open Healthcare_Load_Bronze_Tables.ipynb notebook**
 
