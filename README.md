@@ -57,9 +57,43 @@ Identify patients being readmitted to a healthcare facility within 30 days after
   
 7. **Connect the PostgreSQL Database to Power BI**
 
-       - Open healthcare_patient_readmission_dashboard.pbix
+   - Open healthcare_patient_readmission_dashboard.pbix
+   
+8. **Using The Dashboard**
+   ### Introduction
+   ![Introduction](./images/intro.png) <br>
+   ###### Control-Click the icon in the upper left-hand corner to navigate you to the Patients page.
 
+   ### Patients
+   ![Patients](./images/patients.png) <br>
+   ###### Breakdown of unique patients by age and gender.  Clicking each bar provides details for the specific age and gender or race and gender.  To navigage to a specific page, use control-click in the top naviagation bar.
 
+   ![Patient Encounters](./images/patient_encounters.png) <br>
+   ###### Breakdown of patient encounters by age and gender and rance and gender.
+
+   ![Patients Less Than Thirty Days Readmittance](./images/patients_less30.png) <br>
+   ###### Breakdown of total readmitted patients less than 30 days readmittance by age and gender and race and gender.
+
+   ![Patients Greater Than Thirty Days Readmittance](./images/patients_greater30.png) <br>
+   ###### Breakdown of total readmitted patients greater than 30 days readmittance by age and gender and race and gender.
+
+    ![Patients No Readmittance](./images/patients_noreadmittance.png) <br>
+   ###### Breakdown of total no readmitted patients by age and gender and race and gender.
+
+   ### Admission Source & Discharge Disposition
+    ![Patients Admission Source & Discharge Position](./images/admin_src_discharge_disp.png) <br>
+   ###### Breakdown of the top 5 admission sources by which a patient's care journey begins and the top 5 discharge dispositions which determines the next level of patient care.
+
+   ### Primary & Secondary Diagnosis
+    ![Patients Primary & Secondary Diagnosis](./images/primary_secondary_diagnosis.png) <br>
+   ###### Breakdown of the leading primary and secondary diagnoses by age.
+
+   ### Medications
+    ![Patients Most Commonly Prescribed Medications](./images/meds.png) <br>
+    ![Patients Most Commonly Prescribed Medications](./images/meds_top_age.png) <br>
+   ###### Breakdown of the top most commonly prescribed medication and medications for total encounters by age groups.
+
+    
 ## 📧 Contact
 
 - **Name:** Wanda M Avery
